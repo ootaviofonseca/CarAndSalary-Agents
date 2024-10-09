@@ -1,0 +1,109 @@
+EmpID,Name,Gender,Date_of_Birth,Age,Join_Date,Tenure_in_org_in_months,GROSS,Net_Pay,Deduction,Deduction_percentage,Designation,Department
+19575,Keven Norman,M,3/9/94,25,2/12/19,7,74922,71494,3428,4.58,Product Operations Analyst.Associate.,IT Product Management & Ops
+19944,Kristin Werner,F,23/06/1994,26,13/01/2020,6,44375,39971,4404,9.92,Platform Operations Engineer.Associate.,Platform Operations
+20055,Avery Barber,M,27/02/1996,24,14/11/2019,8,82263,77705,4558,5.54,Platform Operations Engineer.Associate.,Platform Operations
+20058,Boris Gibson,M,29/09/1993,26,13/01/2020,6,44375,40164,4211,9.49,Platform Operations Engineer.Associate.,Platform Operations
+20332,Leif Mack,M,1/5/91,29,4/6/18,25,235405,143963,91442,38.84,Software Engineer.Senior.,Enterprise Access Engineering
+20849,Fredric Peters,M,29/04/1988,32,7/11/19,8,87300,57351,29949,34.31,LMS Administrator II..,Learning & Development
+20852,Sherry Bowman,F,17/11/1992,27,13/01/2020,6,44375,39939,4436,10,Platform Operations Engineer.Associate.,Platform Operations
+21115,Donte Richard,M,28/02/1996,24,13/01/2020,6,44375,41431,2944,6.63,Platform Operations Engineer.Associate.,Platform Operations
+21437,Bobby Horton,M,13/11/1995,24,11/11/19,8,96995,91930,5065,5.22,Technical Solutions Engineer.Associate.,AmaTec - Weekend TSE
+22043,Kenya Montoya,F,24/09/1995,24,13/01/2020,6,44375,39976,4399,9.91,Platform Operations Engineer.Associate.,Platform Operations
+22612,Ola Lara,F,1/11/92,27,26/09/2019,9,99552,88551,11001,11.05,Technical Solutions Engineer..,AmaTec - EMEA TSE
+22651,Graham Carey,M,1/6/95,25,13/01/2020,6,44375,39029,5346,12.05,Platform Operations Engineer.Associate.,Platform Operations
+22686,Morgan Owens,M,14/05/1994,26,17/10/2019,8,68880,65566,3314,4.81,Account Service Manager..,Americas- AMG
+22689,Angie Norton,F,9/8/90,29,17/10/2019,8,212250,127263,84987,40.04,Software Engineer.Senior.,Corporate Systems
+22708,Jarvis Gamble,M,18/10/1992,27,21/10/2019,8,77795,70953,6842,8.79,Network Administrator..,Enterprise Infrastructure Services
+22709,Otto Sweeney,M,27/09/1986,33,21/10/2019,8,175533,128537,46996,26.77,Business Systems Analyst.Senior.,Corporate Systems
+22720,Lea Mccormick,F,27/08/1988,31,24/10/2019,8,96367,91567,4800,4.98,Client Service Manager..,Americas- AMG
+22726,Marvin Mcguire,M,18/01/1989,31,21/10/2019,8,162667,114570,48097,29.57,Business Operations Analyst.Senior.,Web Strategy
+22727,Booker Hodge,M,10/8/94,25,24/10/2019,8,106933,89377,17556,16.42,Systems Support Engineer II..,IT DevOps
+22730,Fanny Reed,F,15/02/1996,24,24/10/2019,8,70417,65607,4810,6.83,Server Tech Services Engineer..,Networks - EMEA Infrastructure
+22750,Long Forbes,M,2/1/93,27,28/10/2019,8,199333,139639,59694,29.95,Data Scientist.Senior.,Security Engineering
+22769,Megan Mcneil,F,9/8/91,28,31/10/2019,8,167600,96868,70732,42.2,Data Scientist.Senior.,Security Engineering
+22770,Chadwick Mcclure,M,9/4/86,34,31/10/2019,8,249933,88691,161242,64.51,Software Engineer.Senior II.,GSS EPIC Engineering (HC COGS)
+22771,Eldon Reeves,M,15/02/1984,36,31/10/2019,8,162667,82096,80571,49.53,Software Development Engineer in Test.Senior.,Storage Engineering
+22772,Jackie Fernandez,M,2/8/94,25,31/10/2019,8,123967,111941,12026,9.7,Software Engineer II..,DPM Engineering
+22782,Deandre Francis,M,2/12/87,32,4/11/19,8,195114,134709,60405,30.96,Software Engineer.Senior.,Enterprise Applications
+22783,Brent Cannon,M,13/07/1982,38,4/11/19,8,264109,174542,89567,33.91,Support Delivery Manager..,AmaTec - SDM
+22784,Bradley Jarvis,M,20/06/1989,31,4/11/19,8,111591,105477,6114,5.48,Global Corporate Card Specialist.Senior.,Global Procurement
+22785,Raphael Oconnor,M,8/12/80,39,4/11/19,8,252348,212151,40197,15.93,Manager.Senior.Financial Operations,Finance - Customer Revenue Operations G&A
+22787,Nikki Schroeder,F,18/05/1994,26,4/11/19,8,105552,99634,5918,5.61,Technical Solutions Engineer..,AmaTec - Americas TSE
+22788,Herman Hester,M,9/9/82,37,4/11/19,8,175533,140203,35330,20.13,Business Operations Analyst.Senior.,Web Division Sales Ops
+22789,Allan Shah,M,11/12/93,26,4/11/19,8,80132,75494,4638,5.79,Platform Operations Engineer.Associate.,Platform Operations
+22790,Sasha Hammond,F,2/4/95,25,4/11/19,8,65856,60912,4944,7.51,Account Service Manager..,EMEA - AMG
+22792,Richie Branch,M,18/09/1990,29,4/11/19,8,101334,94324,7010,6.92,Platform Operations Engineer..,Platform Operations
+22793,Lon Howe,M,22/08/1991,28,4/11/19,8,95094,88199,6895,7.25,Platform Operations Engineer..,Platform Operations
+22799,Susanne Zhang,F,13/09/1995,24,7/11/19,8,112067,104339,7728,6.9,Software Engineer II..,Media Delivery Product Engineering
+22804,Harland Murray,M,2/6/82,38,7/11/19,8,445267,304367,140900,31.64,Manager.Senior.Engineering,GSS EPIC Engineering (HC COGS)
+22808,Reid Gonzales,M,23/07/1991,28,7/11/19,8,97094,90171,6923,7.13,Platform Operations Engineer..,Platform Operations
+22814,Leslie Ponce,M,16/03/1988,32,11/11/19,8,145680,123341,22339,15.33,Security Operations Center Specialist II..,APJ Security Services - SOCC
+22815,Jaime Maldonado,F,7/9/96,23,11/11/19,8,122200,115742,6458,5.28,Software Engineer..,Enterprise Networks
+22816,Damian Molina,M,23/08/1990,29,11/11/19,8,215200,167585,47615,22.13,Software Engineer.Senior.,Security Engineering
+22820,Carrol Serrano,M,23/09/1993,26,11/11/19,8,170600,122748,47852,28.05,Software Engineer II..,Media Portal
+22821,Gilberto Obrien,M,25/03/1991,29,11/11/19,8,195114,131417,63697,32.65,Software Engineer.Senior.,Enterprise Networks
+22836,Tristan Padilla,M,10/3/91,29,18/11/2019,7,119552,114654,4898,4.1,Technical Solutions Engineer..,AmaTec - Americas TSE
+22838,Carlos Reilly,M,12/6/91,29,18/11/2019,7,216267,153781,62486,28.89,Software Development Engineer in Test.Senior.,Security Engineering
+22842,Chang Small,M,5/2/94,26,18/11/2019,7,123000,116727,6273,5.1,Release Engineer II..,Media Services Engineering
+22843,Bruce Stout,M,5/2/91,29,18/11/2019,7,202333,143840,58493,28.91,Software Engineer.Senior.,Enterprise Access Engineering
+22844,Eli Gibbs,M,18/04/1992,28,18/11/2019,7,183467,154289,29178,15.9,System Operations Engineer.Senior.,Enterprise Access Engineering
+22845,Beau Bryant,M,24/07/1987,32,18/11/2019,7,181202,127772,53430,29.49,Business Systems Analyst.Senior II.,Corporate Systems
+22846,Trinidad Montoya,M,1/1/90,30,18/11/2019,7,202333,124701,77632,38.37,Q/A Engineer.Senior.,Enterprise Networks
+22849,Carmela Hatfield,F,26/11/1993,26,21/11/2019,7,93185,70800,22385,24.02,Technical Solutions Engineer..,AmaTec - Americas TSE
+22859,Carlton Ochoa,M,28/05/1989,31,21/11/2019,7,194400,141995,52405,26.96,Software Engineer.Senior.,Media Analytics
+22864,Willard Morrison,M,10/6/90,30,25/11/2019,7,115286,108590,6696,5.81,Technical Solutions Engineer..,AmaTec - Americas TSE
+22865,Lilly Hoffman,F,1/11/93,26,25/11/2019,7,111591,105427,6164,5.52,Program Manager..,GSS Global Programs
+22866,Rachael Rosario,F,12/4/93,27,25/11/2019,7,151337,135148,16189,10.7,Solutions Architect II..,Service Delivery DPM
+22867,Victor Ayala,M,19/09/1994,25,25/11/2019,7,136725,103219,33506,24.51,Software Engineer II..,Enterprise Applications
+22901,Francisco Leon,M,17/01/1989,31,2/12/19,7,258917,218882,40035,15.46,Site Reliability Engineer.Senior.,Security Engineering
+22902,Javier Lowery,M,30/06/1985,35,2/12/19,7,286487,254322,32165,11.23,Infrastructure Delivery Manager..,Networks - APJ Infrastructure
+22903,Wanda Mckenzie,F,27/04/1993,27,2/12/19,7,112067,105317,6750,6.02,Business Operations Analyst II..,Marketing Data Analytics
+22905,Justin Drake,M,21/05/1992,28,2/12/19,7,125795,120628,5167,4.11,Systems Support Engineer..,Networks - Productivity - Systems
+22907,Dianne Williams,F,1/6/93,27,2/12/19,7,88267,82717,5550,6.29,Platform Operations Engineer..,Platform Operations
+22910,Regina Holloway,F,9/10/91,28,5/12/19,7,249200,244000,5200,2.09,Release Engineer II..,Enterprise Access Engineering
+22922,Liza Raymond,F,27/08/1993,26,9/12/19,7,363633,307365,56268,15.47,Software Engineer.Senior.,Media Portal
+22950,Clyde Franklin,M,12/1/91,29,16/12/2019,6,445075,431731,13344,3,Software Engineer II..,Platform Mapping Engineering
+22951,Brett Mayo,M,3/12/88,31,12/12/19,7,105705,99877,5828,5.51,Business Operations Analyst II..,Web Strategy
+22956,Darrin Guzman,M,16/09/1991,28,16/12/2019,6,242948,236250,6698,2.76,Network Administrator..,Enterprise Infrastructure Services
+22957,Ruben Ayers,M,28/01/1985,35,12/12/19,7,263636,208728,54908,20.83,Program Manager.Senior.Technical,Networks - Planning
+22971,Celeste Stanton,F,20/01/1986,34,19/12/2019,6,187213,177145,10068,5.38,Software Development Engineer in Test II..,APJ Security Services
+22973,Clifton Alvarado,M,28/10/1992,27,19/12/2019,6,215363,203851,11512,5.35,Applications Developer II..,Corporate Systems
+22974,Gustavo Casey,M,29/05/1993,27,19/12/2019,6,76330,72303,4027,5.28,Account Service Manager..,Americas- AMG
+22984,Vonda Wood,F,16/02/1982,38,23/12/2019,6,249344,235835,13509,5.42,Software Engineer.Senior.,Corporate Systems
+22986,Luther Glenn,M,21/10/1990,29,23/12/2019,6,418587,407005,11582,2.77,Technical Project Manager II..,APJ Security Services
+22987,Deshawn Roberts,M,17/10/1989,30,23/12/2019,6,143988,135858,8130,5.65,Systems Administrator..Windows,Enterprise Infrastructure Services
+22988,Hong Underwood,M,8/9/86,33,23/12/2019,6,297127,281601,15526,5.23,Support Delivery Manager..,AmaTec - SDM
+22996,Alonso Abbott,M,18/06/1995,25,23/12/2019,6,120239,113834,6405,5.33,Technical Solutions Engineer..,AmaTec - Americas TSE
+22998,Scottie Avery,M,3/7/88,32,23/12/2019,6,299358,284242,15116,5.05,Systems Engineer.Senior.,Enterprise Infrastructure Services
+22999,Juanita Gross,F,7/2/92,28,23/12/2019,6,150035,143798,6237,4.16,Business Operations Analyst..,Web Division Sales Ops
+23000,Katina Duran,F,11/8/91,28,23/12/2019,6,195785,184961,10824,5.53,Software Development Engineer in Test.Senior.,Enterprise Access Engineering
+23001,Marisol Hood,F,16/10/1996,23,23/12/2019,6,92714,87187,5527,5.96,Contract/Billing Analyst..,Finance - Customer Revenue Operations G&A
+23022,Gracie Shelton,F,13/04/1991,29,6/1/20,6,113126,107113,6013,5.32,Software Engineer II..,App Architecture & Integration Services
+23023,Anderson Larson,M,12/2/88,32,6/1/20,6,232628,220380,12248,5.27,Solutions Architect.Senior.,APJ Security Services
+23025,Xavier Petty,M,1/6/93,27,6/1/20,6,123287,116600,6687,5.42,Security Operations Center Specialist II..,APJ Security Services - SOCC
+23026,Dominique Lozano,F,28/05/1991,29,6/1/20,6,161500,153110,8390,5.2,Software Engineer.Senior.,Media Portal
+23029,Trevor Castaneda,M,13/10/1995,24,6/1/20,6,122269,115658,6611,5.41,Systems Engineer II..,Developer Productivity
+23030,Tracy Diaz,M,17/07/1992,27,6/1/20,6,106605,100783,5822,5.46,Software Engineer II..,Enterprise Applications
+23031,Jillian Hampton,F,4/3/94,26,6/1/20,6,84317,79735,4582,5.43,Solutions Architect..,APJ Security Services
+23032,Howard Pittman,M,11/2/97,23,6/1/20,6,60723,57179,3544,5.84,Media Operations Engineer.Associate.,AmaTEC - BOCC/ESG
+23033,Stacie Ellis,F,7/8/95,24,6/1/20,6,60723,57216,3507,5.78,Media Operations Engineer.Associate.,AmaTEC - BOCC/ESG
+23035,Lenore Blake,F,12/9/93,26,6/1/20,6,154048,145909,8139,5.28,Software Engineer.Senior.,GSS EPIC Product Management and Marketing
+23036,Rueben Zuniga,M,6/5/94,26,6/1/20,6,60723,56966,3757,6.19,Media Operations Engineer.Associate.,AmaTEC - BOCC/ESG
+23037,Clement Ochoa,M,26/04/1984,36,6/1/20,6,333194,316062,17132,5.14,Product Manager.Senior.,Enterprise Product Management
+23039,Byron Brady,M,1/12/93,26,9/1/20,6,69138,65440,3698,5.35,Technical Solutions Engineer..,AmaTec - APJ TSE
+23047,Chung Morgan,M,31/03/1991,29,13/01/2020,6,112738,106704,6034,5.35,Solutions Architect II..,APJ Security Services
+23048,Bruno Stuart,M,19/09/1984,35,13/01/2020,6,156501,148306,8195,5.24,Systems Engineer.Senior.,Developer Productivity
+23049,Dylan Faulkner,M,5/7/95,25,13/01/2020,6,44375,41881,2494,5.62,Media Operations Engineer.Associate.,AmaTEC - BOCC/ESG
+23053,Cindy Franklin,F,6/12/93,26,13/01/2020,6,44375,41819,2556,5.76,Media Operations Engineer.Associate.,AmaTEC - BOCC/ESG
+23062,Geoffrey Benton,M,29/11/1989,30,13/01/2020,6,71395,67727,3668,5.14,Network Administrator II..,Enterprise Infrastructure Services
+4074,Demarcus Carney,M,16/12/1981,38,24/10/2019,8,253273,167332,85941,33.93,Finance Systems Analyst.Senior Lead.,Financial Planning and Analysis
+10705,Edgardo Sanford,M,31/05/1988,32,3/7/14,72,111947,78111,33836,30.23,Order Analyst.Senior.,Finance - Customer Revenue Operations G&A
+20196,Abram Huynh,M,3/1/95,25,1/7/19,12,256,256,0,0,Platform Operations Engineer.Associate.,Platform Operations
+16812,Micheal Washington,M,30/09/1988,31,17/10/2016,44,3898,3898,0,0,Security Operations Center Specialist.Senior II.,APJ Security Services - SOCC
+15342,Quentin Holmes,M,4/7/89,31,19/11/2015,55,364137,306221,57916,15.91,Solutions Architect.Senior.,APJ Security Services
+21116,Clair Reeves,M,2/3/88,32,15/11/2018,20,239957,189697,50260,20.95,Technical Project Manager II..,Web Americas - ECG
+6869,Karyn Miles,F,10/6/88,32,1/3/12,100,115843,113844,1999,1.73,Technical Account Manager.Senior.,Acquisitions - ECG IAE Pre-Sales
+19360,Cathy Stevens,F,21/11/1979,40,23/10/2017,32,31906,31706,200,0.63,Relationship Manager.Senior.,Web Americas Inside Sales East
+8092,Susie Berger,F,23/12/1982,37,4/2/13,89,298183,295901,2282,0.77,Instructional Designer.Senior.,Learning & Development
+16457,Iris Middleton,F,1/3/90,30,18/07/2016,47,167190,137220,29970,17.93,Contract/Billing Analyst II..,Finance - Customer Revenue Operations G&A
+17057,Isreal Maddox,M,5/11/91,28,19/12/2016,42,59556,57107,2449,4.11,User Interface Engineer II..,GSS EPIC Engineering (HC COGS)
