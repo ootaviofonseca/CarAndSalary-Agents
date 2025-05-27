@@ -49,3 +49,6 @@ This project is an AI-powered assistant that helps users make financial decision
 3. The **LangChain** agent orchestrates the interaction between tools that handle the logic for employee salary or car data.
 4. **OpenAI's GPT** model processes natural language queries and provides the appropriate response.
 
+
+![image](https://github.com/user-attachments/assets/23b8beca-7b6a-4353-b6c4-6a501aad5209)
+
